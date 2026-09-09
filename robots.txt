@@ -1,0 +1,7 @@
+# 온리핀스 — 비교표(데이터시트) 랜딩
+# 홍보 목적이므로 모든 검색엔진에 열어 둔다.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://onlypinspr006.chalia4065.workers.dev/sitemap.xml
